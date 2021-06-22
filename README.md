@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning git, docker etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just go to Hrodna)
+- 📫 To reach me just go to Hrodna)
 
 <!---
 sherandrej/sherandrej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
